@@ -1,6 +1,6 @@
 # Events Manager
 
-Events manager is my university project created during Special Topics III discipline.
+Events manager is my university project created during Programming Special Topics III discipline.
 
 This project is a basic CRUD, using rust programming language.
 
